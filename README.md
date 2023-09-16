@@ -33,4 +33,4 @@ Para executar a análise, você pode seguir os seguintes passos:
 3. Execute o script Python para gerar o gráfico de barras.
 
 ```bash
-python atvdd-ds.py
+python atvdd_ds.py
