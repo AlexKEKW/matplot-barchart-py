@@ -10,7 +10,7 @@ Os dados utilizados neste projeto são armazenados em um dicionário Python cham
 
 ## Análise de Dados
 
-Usamos a biblioteca Pandas para converter o dicionário em uma série de dados. Em seguida, usamos a biblioteca Matplotlib para criar um gráfico de barras na vertical que exibe as informações dos clubes mais valiosos.
+Usei a biblioteca Pandas para converter o dicionário em uma série de dados. Em seguida, usamos a biblioteca Matplotlib para criar um gráfico de barras na vertical que exibe as informações dos clubes mais valiosos.
 
 ## Resultados
 
@@ -19,10 +19,6 @@ O gráfico de barras na vertical apresenta visualmente a diferença nos valores 
 - O clube mais valioso da Premier League é o "Manchester City" com um valor de mercado de aproximadamente 999.999 milhões.
 - O "Liverpool" e o "Chelsea" são os clubes que se aproximam do valor de mercado do "Manchester City", com valores de 870.000 milhões e 866.700 milhões, respectivamente.
 - O "Everton" é o clube menos valioso entre os 10 analisados, com um valor de mercado de cerca de 380.700 milhões.
-
-## Próximos Passos
-
-Este projeto de análise pode ser expandido para incluir mais clubes ou para analisar outras métricas, como o desempenho em campo em relação ao valor de mercado. Também é possível automatizar a atualização dos dados para manter a análise sempre atualizada.
 
 ## Como Executar
 
